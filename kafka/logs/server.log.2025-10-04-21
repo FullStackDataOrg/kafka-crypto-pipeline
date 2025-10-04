@@ -1,0 +1,4 @@
+[2025-10-04 21:00:02,899] INFO [GroupMetadataManager brokerId=1] Group console-consumer-11234 transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
+[2025-10-04 21:03:54,259] INFO [NodeToControllerChannelManager id=1 name=forwarding] Node 1 disconnected. (org.apache.kafka.clients.NetworkClient)
+[2025-10-04 21:10:02,674] INFO [SnapshotGenerator id=1] Creating new KRaft snapshot file snapshot 00000000000000007592-0000000002 because we have waited at least 60 minute(s). (org.apache.kafka.image.publisher.SnapshotGenerator)
+[2025-10-04 21:10:02,694] INFO [SnapshotEmitter id=1] Successfully wrote snapshot 00000000000000007592-0000000002 (org.apache.kafka.image.publisher.SnapshotEmitter)

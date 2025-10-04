@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "BinancePostgres",
+            "database": "binance_stream",
+            "username": "postgres",
+            "password": "admin123"
+        }
+    ]
+}

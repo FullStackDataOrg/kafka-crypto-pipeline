@@ -1,0 +1,3 @@
+[2025-10-04 20:53:54,250] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-10-04 20:53:54,251] INFO [Broker id=1] Creating new partition binance_trades-0 with topic id r-QS2XDwRKS_6e4CEd8cqg. (state.change.logger)
+[2025-10-04 20:53:54,255] INFO [Broker id=1] Leader binance_trades-0 with topic id Some(r-QS2XDwRKS_6e4CEd8cqg) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
