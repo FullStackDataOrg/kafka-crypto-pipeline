@@ -1,0 +1,3 @@
+{
+  "stack": ["Python", "Apache Kafka", "PostgreSQL", "WebSocket", "KRaft", "psycopg2", "kafka-python"]
+}

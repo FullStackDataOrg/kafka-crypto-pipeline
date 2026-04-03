@@ -1,0 +1,5 @@
+graph TD
+  A[Binance WebSocket API\nLive trade stream] --> B[Python Producer\nbinance_producer.py]
+  B --> C[Apache Kafka\nKRaft mode\ntopic: binance_stream]
+  C --> D[Python Consumer\nbinance_consumer.py]
+  D --> E[PostgreSQL\nbinance_db.trades]
